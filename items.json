@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "description": "Compact and ergonomic wireless mouse with adjustable DPI settings."
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Portable speaker with high-quality sound and long battery life."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Keyboard",
+    "price": 89.99,
+    "description": "Mechanical keyboard with RGB backlighting and customizable keys."
+  },
+  {
+    "id": 4,
+    "name": "Smartphone Stand",
+    "price": 12.99,
+    "description": "Adjustable stand suitable for smartphones and tablets."
+  },
+  {
+    "id": 5,
+    "name": "Noise-Cancelling Headphones",
+    "price": 129.99,
+    "description": "Comfortable headphones with active noise cancellation technology."
+  },
+  {
+    "id": 6,
+    "name": "USB Flash Drive",
+    "price": 15.99,
+    "description": "High-speed USB drive with a storage capacity of 64GB."
+  },
+  {
+    "id": 7,
+    "name": "Laptop Backpack",
+    "price": 39.99,
+    "description": "Durable backpack with padded compartments for laptops and accessories."
+  },
+  {
+    "id": 8,
+    "name": "LED Desk Lamp",
+    "price": 29.99,
+    "description": "Energy-efficient lamp with adjustable brightness levels."
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker",
+    "price": 59.99,
+    "description": "Waterproof tracker with heart rate monitoring and step counting."
+  },
+  {
+    "id": 10,
+    "name": "Electric Kettle",
+    "price": 34.99,
+    "description": "Fast-boiling kettle with a capacity of 1.7 liters."
+  },
+  {
+    "id": 11,
+    "name": "Portable Charger",
+    "price": 22.99,
+    "description": "Compact power bank with a capacity of 10000mAh."
+  },
+  {
+    "id": 12,
+    "name": "Coffee Grinder",
+    "price": 45.99,
+    "description": "Electric grinder suitable for coffee beans and spices."
+  },
+  {
+    "id": 13,
+    "name": "Smart Light Bulb",
+    "price": 19.99,
+    "description": "Wi-Fi enabled bulb compatible with voice assistants."
+  },
+  {
+    "id": 14,
+    "name": "Action Camera",
+    "price": 149.99,
+    "description": "Waterproof camera capable of recording in HD resolution."
+  },
+  {
+    "id": 15,
+    "name": "Wireless Charger",
+    "Price":24
+  }
+]
